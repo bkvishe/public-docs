@@ -1,3 +1,8 @@
+---
+layout: default
+title: Privacy Policy for Bhagavad Gita Saar
+---
+
 # Privacy Policy for Bhagavad Gita Saar
 
 **Last updated: January 07, 2025**
